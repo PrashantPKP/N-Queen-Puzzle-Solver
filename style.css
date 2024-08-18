@@ -190,6 +190,7 @@ div.n-queen {
   justify-content: center;
 }
 
+
 #n-queen-board div {
   position: relative;
   display: flex;
@@ -201,6 +202,7 @@ div.n-queen {
   bottom: 10px;
 }
 
+
 table {
   position: relative;
   border-collapse: collapse;
@@ -210,11 +212,13 @@ table {
   align-self: center;
 }
 
+
 td {
   width: 35px;
   height: 35px;
   text-align: center;
 }
+
 
 h4 {
   position: relative;
