@@ -1,7 +1,6 @@
 # N-Queen Puzzle Solver
 
 ## Overview
-
 Welcome to the N-Queen Puzzle Solver. This project provides an interactive and educational tool to understand the classic N-Queen puzzle. Users can specify the number of queens, and the solver will calculate all possible solutions, displaying them one by one with animation. You can control the animation speed to follow the solving process easily.
 
 ## Features
@@ -13,7 +12,6 @@ Welcome to the N-Queen Puzzle Solver. This project provides an interactive and e
 
 
 ## Usage
-
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/PrashantPKP/N-Queen-Puzzle-Solver.git
