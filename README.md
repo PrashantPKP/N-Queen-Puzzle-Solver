@@ -4,11 +4,11 @@
 Welcome to the N-Queen Puzzle Solver. This project provides an interactive and educational tool to understand the classic N-Queen puzzle. Users can specify the number of queens, and the solver will calculate all possible solutions, displaying them one by one with animation. You can control the animation speed to follow the solving process easily.
 
 ## Features
-- Specify the number of queens (N) for the puzzle
-- Calculate the total number of possible solutions
-- Visualize solutions one by one in an animated format
-- Adjust the speed of the solving animation
-- Interactive interface for easy learning and understanding
+- Specify the number of queens (N) for the puzzle.
+- Calculate the total number of possible solutions.
+- Visualize solutions one by one in an animated format.
+- Adjust the speed of the solving animation.
+- Interactive interface for easy learning and understanding.
 
 
 ## Usage
